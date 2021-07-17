@@ -6,7 +6,7 @@ import java.util.Scanner;
    public static void main(String args[])
  {
       Scanner s = new Scanner(System.in);
-      System.out.println("Enter n value:");
+      System.out.println("Enter n value");
       int length = s.nextInt();
       int [] myArray = new int[length];
       System.out.println("Enter 5 values");
